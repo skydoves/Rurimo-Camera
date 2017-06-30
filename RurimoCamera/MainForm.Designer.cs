@@ -85,8 +85,8 @@
             // toolStripLabel1
             // 
             this.toolStripLabel1.Name = "toolStripLabel1";
-            this.toolStripLabel1.Size = new System.Drawing.Size(54, 22);
-            this.toolStripLabel1.Text = "네이밍 : ";
+            this.toolStripLabel1.Size = new System.Drawing.Size(59, 22);
+            this.toolStripLabel1.Text = "naming : ";
             // 
             // nammingbox
             // 
