@@ -1,0 +1,27 @@
+C:\Users\Skydoves\Desktop\RurimoCamera\RurimoCamera\bin\Release\RurimoCamera.exe.config
+C:\Users\Skydoves\Desktop\RurimoCamera\RurimoCamera\bin\Release\RurimoCamera.exe
+C:\Users\Skydoves\Desktop\RurimoCamera\RurimoCamera\bin\Release\RurimoCamera.pdb
+C:\Users\Skydoves\Desktop\RurimoCamera\RurimoCamera\obj\Release\RurimoCamera.MainForm.resources
+C:\Users\Skydoves\Desktop\RurimoCamera\RurimoCamera\obj\Release\RurimoCamera.Properties.Resources.resources
+C:\Users\Skydoves\Desktop\RurimoCamera\RurimoCamera\obj\Release\RurimoCamera.csproj.GenerateResource.Cache
+C:\Users\Skydoves\Desktop\RurimoCamera\RurimoCamera\obj\Release\RurimoCamera.exe
+C:\Users\Skydoves\Desktop\RurimoCamera\RurimoCamera\obj\Release\RurimoCamera.pdb
+C:\Users\Skydoves\Desktop\RurimoCamera\RurimoCamera\obj\Release\RurimoCamera.csprojResolveAssemblyReference.cache
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\루리모 소프트\RurimoCamera\RurimoCamera\bin\Release\RurimoCamera.exe.config
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\루리모 소프트\RurimoCamera\RurimoCamera\bin\Release\RurimoCamera.exe
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\루리모 소프트\RurimoCamera\RurimoCamera\bin\Release\RurimoCamera.pdb
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\루리모 소프트\RurimoCamera\RurimoCamera\obj\Release\RurimoCamera.csprojResolveAssemblyReference.cache
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\루리모 소프트\RurimoCamera\RurimoCamera\obj\Release\RurimoCamera.MainForm.resources
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\루리모 소프트\RurimoCamera\RurimoCamera\obj\Release\RurimoCamera.Properties.Resources.resources
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\루리모 소프트\RurimoCamera\RurimoCamera\obj\Release\RurimoCamera.csproj.GenerateResource.Cache
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\루리모 소프트\RurimoCamera\RurimoCamera\obj\Release\RurimoCamera.exe
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\루리모 소프트\RurimoCamera\RurimoCamera\obj\Release\RurimoCamera.pdb
+C:\Users\magician\Desktop\Projects\Visual Studio\Rurimo Camera\RurimoCamera\bin\Release\RurimoCamera.exe.config
+C:\Users\magician\Desktop\Projects\Visual Studio\Rurimo Camera\RurimoCamera\bin\Release\RurimoCamera.exe
+C:\Users\magician\Desktop\Projects\Visual Studio\Rurimo Camera\RurimoCamera\bin\Release\RurimoCamera.pdb
+C:\Users\magician\Desktop\Projects\Visual Studio\Rurimo Camera\RurimoCamera\obj\Release\RurimoCamera.csprojResolveAssemblyReference.cache
+C:\Users\magician\Desktop\Projects\Visual Studio\Rurimo Camera\RurimoCamera\obj\Release\RurimoCamera.MainForm.resources
+C:\Users\magician\Desktop\Projects\Visual Studio\Rurimo Camera\RurimoCamera\obj\Release\RurimoCamera.Properties.Resources.resources
+C:\Users\magician\Desktop\Projects\Visual Studio\Rurimo Camera\RurimoCamera\obj\Release\RurimoCamera.csproj.GenerateResource.Cache
+C:\Users\magician\Desktop\Projects\Visual Studio\Rurimo Camera\RurimoCamera\obj\Release\RurimoCamera.exe
+C:\Users\magician\Desktop\Projects\Visual Studio\Rurimo Camera\RurimoCamera\obj\Release\RurimoCamera.pdb
